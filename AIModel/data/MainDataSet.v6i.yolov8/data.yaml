@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['bare-soil', 'building', 'grass', 'tree', 'water']
+
+roboflow:
+  workspace: andreiatudo
+  project: maindataset-bdoew
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/andreiatudo/maindataset-bdoew/dataset/6

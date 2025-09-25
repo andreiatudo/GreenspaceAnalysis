@@ -1,0 +1,9 @@
+data.yaml
+README.dataset.txt
+README.roboflow.txt
+yolov8s-seg.pt
+test/
+train/
+valid/
+monitorizare-spatii-verzi/
+runs/
