@@ -328,10 +328,6 @@ building,15.67,234
 water,3.12,45
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
 ### Development Setup
 ```bash
 git clone https://github.com/yourusername/green-space-pipeline.git
